@@ -1,0 +1,10 @@
+{
+  "name": "gomoku-infinite",
+  "version": "1.0.0",
+  "dependencies": {
+    "three": "^0.155.0"
+  },
+  "devDependencies": {
+    "vite": "^4.4.9"
+  }
+}
